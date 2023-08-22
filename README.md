@@ -1,6 +1,6 @@
 # EnzoFelyx
 
-- 👨‍💻 Enzo Felix
+- 👨‍💻 Enzo Felix dos Santos
 - 📌 Brazil - SP
 - 🌱 22y
 - 🔭 My favorite hobby is watching the sky
