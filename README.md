@@ -12,6 +12,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=0E76A8)](https://www.github.com/EnzoFelyx/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFF?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/enzofelyx/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:enzofelyx@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-FFF?style=for-the-badge&logo=discord)](https://www.discord.com/in/enzu9641/)
 [![Instagram](https://img.shields.io/badge/Instagram-FFF?style=for-the-badge&logo=instagram)](https://www.instagram.com/enzo_felyx/)
 
