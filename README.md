@@ -4,7 +4,7 @@
 - 📌 Brazil - SP
 - 🌱 22y
 - 🔭 My favorite hobby is watching the sky
-- 📚 Analysis and Technologies Development 6/6
+- 🎓 Systems Analysis and Development 6/6
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=EnzoFelyx&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
