@@ -2,7 +2,7 @@
 
 - 👨‍💻 Enzo Felix dos Santos
 - 📌 Brazil - SP
-- 🌱 22y
+- 🌱 24y
 - 🔭 My favorite hobby is watching the sky
 - 🎓 Systems Analysis and Development 6/6
 
