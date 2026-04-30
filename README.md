@@ -3,7 +3,7 @@
 - 👨‍💻 Enzo Felix dos Santos
 - 📌 Brazil - SP
 - 🌱 24y
-- 🔭 My favorite hobby is watching the sky
+- 🔭 I love observing the night sky
 - 🎓 Degree in Systems Analysis and Development
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=EnzoFelyx&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
